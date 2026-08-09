@@ -1,0 +1,11 @@
+# Ignore system and personal files
+.bash_history
+.claude.json
+.gitconfig
+.lesst
+.credentials.json
+.last-cleanup
+policy-limits.json
+remote-settings.json
+.claude.json.backup*
+*.json
